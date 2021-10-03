@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*came saw conqured*
+_came saw conqured_
+
+**music wins**
+__music wins __
+
+_You **can** combine them_
